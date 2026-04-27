@@ -52,4 +52,4 @@ Quando não estou refatorando `ifs` encadeados ou arquitetando soluções em .NE
 ### Estatísticas de Desenvolvedora
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaraGottschall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight&hide_all_commits=false&count_private=true)
