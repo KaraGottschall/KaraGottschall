@@ -1,6 +1,6 @@
 # Olá, eu sou a Kara Gottschall 👋
 
-**Software Engineer .NET | | C# | ASP.NET Core | T-SQL | Futura Bacharel em Ciência da Computação 4/8**
+**Software Engineer .NET | C# | ASP.NET Core | T-SQL | Futura Bacharel em Ciência da Computação 4/8**
 
 Dizem que para cada `if` aninhado que eu encontro, um anjo perde as asas (e eu perco a paciência). Minha missão de vida é declarar guerra ao código espaguete, transformando monolitos "legados por conveniência" em arquiteturas limpas, escaláveis e, acima de tudo, legíveis. Se o código não é **Flat**, algo está errado.
 
