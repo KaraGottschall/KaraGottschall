@@ -33,8 +33,8 @@ Atualmente, foco meus neurônios no **GeoStrike** — MMORTS em desenvolvimento 
 
 ### 📈 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaraGottschall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight&hide_all_commits=false&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaraGottschall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight&hide_all_commits=false&count_private=true)
 
 ---
 
