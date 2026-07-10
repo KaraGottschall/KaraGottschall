@@ -1,18 +1,22 @@
 # Olá, eu sou a Kara Gottschall 👋
 
-**Fullstack Developer | .NET Zealot | Futura Bacharel em Ciência da Computação & Direito**
+**Software Engineer .NET | | C# | ASP.NET Core | T-SQL | Futura Bacharel em Ciência da Computação 4/8**
 
 Dizem que para cada `if` aninhado que eu encontro, um anjo perde as asas (e eu perco a paciência). Minha missão de vida é declarar guerra ao código espaguete, transformando monolitos "legados por conveniência" em arquiteturas limpas, escaláveis e, acima de tudo, legíveis. Se o código não é **Flat**, algo está errado.
 
 ---
 
-### 🧪 O Laboratório: [NexusERP](https://github.com/KaraGottschall/NexusERP)
+### 🧪 O Laboratório: [GeoStrike](https://github.com/KaraGottschall/GeoStrike)
 
-Atualmente, foco meus neurônios no **NexusERP**, onde exploro o que há de mais moderno (e sangrento) no ecossistema Microsoft:
+Atualmente, foco meus neurônios no **GeoStrike** — MMORTS em desenvolvimento e projeto de portfólio onde exploro o que há de mais moderno no ecossistema Microsoft:
+
 - **Cutting Edge:** Desbravando o .NET 10 e as novas features do [C# 14](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14).
-- **Abordagem Híbrida:** Unindo a robustez do C# com a elegância funcional do F#.
-- **Infra:** Tudo devidamente containerizado com Docker, porque "na minha máquina funciona" não é desculpa.
-- **Frontend:** [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) para manter a sanidade mental longe do excesso de JavaScript.
+- **Arquitetura:** Clean Architecture + DDD, casos de uso por fatia vertical e repositórios segregados (leitura/escrita).
+- **Catálogo de domínio:** definições de edifícios e funções de obra em JSON embutido (`GeoStrike.Domain.Catalog`), com `JsonSerializerContext` para serialização performática.
+- **Regras de negócio:** evolução de estruturas com custos dinâmicos — equipe de obra, taxas e multiplicadores por tipo de edifício.
+- **Fullstack .NET:** API REST com FluentValidation + [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) WebAssembly com MudBlazor, HUD de recursos e painel dinâmico de edifícios.
+- **Persistência:** EF Core + SQL Server; credenciais fora do repositório via User Secrets.
+- **Qualidade:** GitHub Actions, testes de validadores (xUnit + Shouldly) e licença MIT.
 
 ---
 
@@ -20,21 +24,10 @@ Atualmente, foco meus neurônios no **NexusERP**, onde exploro o que há de mais
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | .NET 8/10, ASP.NET Core, Dapper, EF Core, F# |
-| **Frontend** | Blazor, Vue.js, Tailwind CSS, TypeScript |
+| **Backend** | .NET 10, ASP.NET Core, Dapper, EF Core, F# |
+| **Frontend** | Blazor, Angular, Vue.js, Tailwind CSS |
 | **Dados** | SQL Server (T-SQL), MySQL, MongoDB |
 | **DevOps/Qualidade** | Docker, CI/CD, [Scalar](https://scalar.com/) (porque Swagger já deu o que tinha que dar) |
-
----
-
-### 🧠 Além das Linhas de Código
-
-Quando não estou refatorando lógica alheia para implementar *Early Returns*:
-
-* **Análise de Personagens:** Analiso os arcos de *Better Call Saul* e *Breaking Bad* com o mesmo rigor que analiso um Pull Request. A psicologia por trás de um personagem bem construído é a "Clean Architecture" da narrativa.
-* **Estratégia & Balística:** Aplico tática militar e logística em FPS competitivos. Se eu consigo coordenar um squad no *Battlefield* sob fogo cruzado, gerenciar um deploy em produção é fichinha.
-* **Direito & Ética Tech:** Como estudante de Direito, sou a "advogada do diabo" na governança de dados. Compliance e LGPD para mim não são burocracia, são segurança algorítmica.
-* **A Cruzada pelo Flat Code:** Minha meta é reduzir o volume de código sem perder a função. Menos linhas, menos bugs, mais tempo para tomar café.
 
 ---
 
@@ -48,4 +41,4 @@ Quando não estou refatorando lógica alheia para implementar *Early Returns*:
 ### 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgottschall)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hschall56@gmail.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kara.gottschall@gmail.com)
