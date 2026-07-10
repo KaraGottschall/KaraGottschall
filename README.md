@@ -1,45 +1,47 @@
-# Olá, eu sou a Kara Gottschall 👋
+# Kara Gottschall
 
-**Software Engineer .NET | C# | ASP.NET Core | T-SQL | Futura Bacharel em Ciência da Computação 4/8**
+> **Software Engineer** specializing in .NET, architectural integrity, and high-performance systems.
+> *Computer Science Undergraduate (4/8)*
 
-Dizem que para cada `if` aninhado que eu encontro, um anjo perde as asas (e eu perco a paciência). Minha missão de vida é declarar guerra ao código espaguete, transformando monolitos "legados por conveniência" em arquiteturas limpas, escaláveis e, acima de tudo, legíveis. Se o código não é **Flat**, algo está errado.
-
----
-
-### 🧪 O Laboratório: [GeoStrike](https://github.com/KaraGottschall/GeoStrike)
-
-Atualmente, foco meus neurônios no **GeoStrike** — MMORTS em desenvolvimento e projeto de portfólio onde exploro o que há de mais moderno no ecossistema Microsoft:
-
-- **Cutting Edge:** Desbravando o .NET 10 e as novas features do [C# 14](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-14).
-- **Arquitetura:** Clean Architecture + DDD, casos de uso por fatia vertical e repositórios segregados (leitura/escrita).
-- **Catálogo de domínio:** definições de edifícios e funções de obra em JSON embutido (`GeoStrike.Domain.Catalog`), com `JsonSerializerContext` para serialização performática.
-- **Regras de negócio:** evolução de estruturas com custos dinâmicos — equipe de obra, taxas e multiplicadores por tipo de edifício.
-- **Fullstack .NET:** API REST com FluentValidation + [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) WebAssembly com MudBlazor, HUD de recursos e painel dinâmico de edifícios.
-- **Persistência:** EF Core + SQL Server; credenciais fora do repositório via User Secrets.
-- **Qualidade:** GitHub Actions, testes de validadores (xUnit + Shouldly) e licença MIT.
+Dizem que para cada `if` aninhado encontrado, um anjo perde as asas. Minha missão é declarar guerra ao código espaguete, transformando monolitos "legados por conveniência" em arquiteturas limpas, escaláveis e estritamente legíveis. **Se o código não é Flat, algo está errado.**
 
 ---
 
-### 🛠️ Minha Mochila de Ferramentas
+### 🧪 Current Focus: [GeoStrike](https://github.com/KaraGottschall/GeoStrike)
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Backend** | .NET 10, ASP.NET Core, Dapper, EF Core, F# |
-| **Frontend** | Blazor, Angular, Vue.js, Tailwind CSS |
-| **Dados** | SQL Server (T-SQL), MySQL, MongoDB |
-| **DevOps/Qualidade** | Docker, CI/CD, [Scalar](https://scalar.com/) (porque Swagger já deu o que tinha que dar) |
+Desenvolvimento de um motor MMORTS focado em explorar o limite do ecossistema moderno da Microsoft e padrões avançados de domínio.
 
----
-
-### 📈 Minhas Estatísticas
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=KaraGottschall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight&hide_all_commits=false&count_private=true)
+*   **Cutting Edge** — Engenharia arquitetural baseada em .NET 10 e recursos nativos do C# 14.
+*   **Architecture** — Clean Architecture combinada com Domain-Driven Design (DDD) e fatias verticais (*Vertical Slices*).
+*   **Performance** — Catálogo de domínio otimizado com `JsonSerializerContext` para serialização em tempo de compilação de alta performance.
+*   **Fullstack .NET** — API REST acoplada a FluentValidation e interface dinâmica em Blazor WebAssembly com MudBlazor.
+*   **Data Integrity** — Segregação rigorosa de repositórios de leitura/escrita com EF Core e SQL Server, sob isolamento de credenciais via *User Secrets*.
+*   **CI/CD & Quality** — Pipelines de integração contínua via GitHub Actions e matrizes de testes robustas com xUnit e Shouldly.
 
 ---
 
-### 📫 Onde me encontrar
+### 🛠️ Ecosystem & Expertise
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgottschall)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kara.gottschall@gmail.com)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kara.gottschall@gmail.com)
+*   **Backend & Core** `•` .NET 10 `•` C# 14 `•` F# `•` ASP.NET Core `•` Dapper `•` EF Core
+*   **Data Architecture** `•` SQL Server (T-SQL) `•` MySQL `•` MongoDB
+*   **Frontend Integration** `•` Blazor Wasm `•` Vue.js `•` Angular `•` Tailwind CSS
+*   **DevOps & Tooling** `•` Docker `•` GitHub Actions `•` Scalar `•` Postman
+
+---
+
+### 📈 Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaraGottschall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaraGottschall&layout=compact&theme=tokyonight&hide_all_commits=false&count_private=true" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 📬 Connection
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kgottschall" target="_blank">LinkedIn</a> &nbsp;·&nbsp; 
+  <a href="mailto:kara.gottschall@gmail.com">Gmail</a> &nbsp;·&nbsp; 
+  <a href="mailto:kara.gottschall@gmail.com">Outlook</a>
+</p>
