@@ -6,7 +6,7 @@ Desenvolvedora Fullstack (.NET e Vue.js/Razor) com atuação em portal corporati
 
 ## Experiência Profissional
 
-### Desenvolvedora de Sistemas — Studio Brasuka
+### Desenvolvedora de Sistemas — [Studio Brasuka](https://studiobrasuka.com.br/)
 
 **Setembro 2024 – Presente**
 
@@ -29,7 +29,7 @@ Portal Polaris (Caixa Assistência) e plataforma de procurement (Handover). Full
 - **AWS S3 e operações de campo:** upload/exclusão e URLs pré-assinadas para documentos e fotos; medição/desmontagem, galeria, histórico e itens pendentes.
 - **Planilhas, ERP, alertas e auditoria:** ClosedXML e campos de integração TOTVS (GTC/SC/PC/PM) com permissão por área; notificações por área e log de ações sensíveis (login, status, uploads).
 
-### Analista de Sistemas de TI — Grupo GPS
+### Analista de Sistemas de TI — [Grupo GPS](https://gpssa.com.br/)
 
 **Julho 2022 – Junho 2024**
 
@@ -52,8 +52,8 @@ Efetivada após destaque em estágio. Transição do Jurídico para TI após aut
 
 ## Formação Acadêmica
 
-- **Bacharelado em Ciência da Computação** · Anhanguera Osasco · Previsão: 2028
-- **Bacharelado em Direito** · Anhanguera Osasco · Interrompido no 5º Semestre  
+- **Bacharelado em Ciência da Computação** · [Anhanguera Osasco](https://www.anhanguera.com/) · Previsão: 2028
+- **Bacharelado em Direito** · [Anhanguera Osasco](https://www.anhanguera.com/) · Interrompido no 5º Semestre  
   Atuação na intersecção entre engenharia de software e direito digital, com foco em compliance, contratos e aplicação prática da LGPD no desenvolvimento.
 
 ---
