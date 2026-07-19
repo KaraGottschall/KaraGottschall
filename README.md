@@ -2,8 +2,6 @@
 
 Desenvolvedora Fullstack (.NET e Vue.js/Razor) com atuação em portal corporativo da Caixa Assistência (Portal Polaris): Service Desk/GTicket, gestor de campanhas, sprints/Kanban com dashboard operacional e painel administrativo. Entrego módulos end-to-end — da modelagem e APIs à UI — com foco em código manutenível, segurança web e performance com Dapper. Formação jurídica complementa a prática de LGPD e conformidade no desenvolvimento.
 
-**Osasco, SP** · [kara.gottschall@outlook.com](mailto:kara.gottschall@outlook.com) · [LinkedIn](https://www.linkedin.com/in/kgottschall) · [GitHub](https://github.com/KaraGottschall)
-
 ## Experiência Profissional
 
 ### Desenvolvedora de Sistemas — [Studio Brasuka](https://studiobrasuka.com.br/)
