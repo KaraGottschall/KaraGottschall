@@ -1,6 +1,6 @@
 # Kara Gottschall Martins | Desenvolvedora Fullstack
 
-Osasco, SP · [LinkedIn](https://www.linkedin.com/in/kgottschall) · [GitHub](https://github.com/KaraGottschall) · kara.gottschall@gmail.com · (11) 9 6931-6397
+Osasco, SP
 
 ## Resumo Profissional
 
