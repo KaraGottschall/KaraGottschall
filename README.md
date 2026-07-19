@@ -72,13 +72,3 @@ Efetivada após destaque em estágio. Transição do Jurídico para TI após aut
   <a href="mailto:kara.gottschall@outlook.com">Outlook</a> &nbsp;·&nbsp;
   <a href="https://github.com/KaraGottschall" target="_blank">GitHub</a>
 </p>
-
-<p align="center">
-  <sub>
-    Tipografia em <a href="https://fonts.google.com/specimen/EB+Garamond">EB Garamond</a>
-    &nbsp;·&nbsp;
-    Compilado em <a href="https://www.latex-project.org/">LaTeX</a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/KaraGottschall/Curriculo-Latex">Currículo</a>
-  </sub>
-</p>
