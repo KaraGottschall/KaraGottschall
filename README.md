@@ -8,16 +8,13 @@ Desenvolvedora Fullstack (.NET e Vue.js/Razor) com atuação em portal corporati
 
 **Setembro 2024 – Presente**
 
-Portal Polaris (Caixa Assistência) e plataforma de procurement (Handover). Fullstack .NET 8/10 & Vue.js/Razor na modernização de legados monolíticos para arquitetura em camadas, com Dapper e Server-Side Hydration.
+Portal Barretos (PAGCENTER), plataforma de procurement (Handover) e Portal Polaris (Caixa Assistência). Fullstack .NET 8/10 & Vue.js/Razor na modernização de legados monolíticos para arquitetura em camadas, com Dapper e Server-Side Hydration.
 
-#### Portal Polaris (Caixa Assistência)
+#### Portal Barretos (PAGCENTER)
 
-- **Service Desk / GTicket:** ciclo completo de chamados (abertura, status, chat, anexos, filtros e paginação) em .NET + Vue/Razor, com otimização de carga e consultas SQL.
-- **Sprints e operação ágil:** modelagem e APIs de sprints/tarefas/Kanban, vínculo ticket–sprint, backlog e cálculo de progresso — substituindo mocks por persistência real.
-- **Dashboard operacional:** KPIs, heatmap, gráficos de alteração de datas, produtividade, auditoria, check-in e logs dedicados.
-- **Gestor de Campanhas:** listagem/filtros, editor TinyMCE, anexos/mídia e e-mail com MailKit assíncrono.
-- **Painel administrativo e produtos:** acessos/permissões, cargos, departamentos, funcionários, notícias e horários de expediente; cadastro de produtos com periodicidade, vigência/renovação, upload de imagens e configurações de app/vantagens.
-- **GBlock, fiscal, arquitetura e segurança:** bloqueio/desbloqueio de hardware (jornada e solicitações) e gestão de notas/diferimentos; migração T-SQL/ASP.NET para .NET 8 + Vue; CSRF e CSP/nonce; SonarQube/Quality Gates.
+- **Auth e usuários:** Cookie Authentication, BCrypt e fluxo de primeiro acesso; CRUD de usuários/perfil com Dapper e MySQL.
+- **Auditoria:** log de ações sensíveis (login, usuários, perfil) com filtros e paginação server-side.
+- **UI operacional:** shell autenticado em Razor + Vue 3/PrimeVue; telas de terminais, eventos, monitoramento, relatórios e transações em prototipação.
 
 #### Plataforma de Gestão de RFQs (Handover)
 
@@ -27,16 +24,20 @@ Portal Polaris (Caixa Assistência) e plataforma de procurement (Handover). Full
 - **AWS S3 e operações de campo:** upload/exclusão e URLs pré-assinadas para documentos e fotos; medição/desmontagem, galeria, histórico e itens pendentes.
 - **Planilhas, ERP, alertas e auditoria:** ClosedXML e campos de integração TOTVS (GTC/SC/PC/PM) com permissão por área; notificações por área e log de ações sensíveis (login, status, uploads).
 
+#### Portal Polaris (Caixa Assistência)
+
+- **Onboarding e padronização técnica:** apoio no acompanhamento de desenvolvedores nos módulos Dashboard e GTicket via *pair programming*, *code review* e alinhamento do código em Clean Code e SOLID.
+- **Desenvolvimento e integração de APIs:** substituição de mocks por APIs RESTful em .NET 8 e Dapper em arquitetura em camadas; chamadas assíncronas em Vue.js; módulos de chamados, sprints/Kanban, RBAC, MailKit/TinyMCE e KPIs/heatmap.
+- **Segurança, qualidade e refatoração:** implementação de CSRF, CSP/nonce e regras de qualidade no SonarQube; migração de legado T-SQL/ASP.NET para .NET 8 + Vue; desenvolvimento dos módulos GBlock e fiscal.
+
 ### Analista de Sistemas de TI — [Grupo GPS](https://gpssa.com.br/)
 
 **Julho 2022 – Junho 2024**
 
-Efetivada após destaque em estágio. Transição do Jurídico para TI após automações em Python; Angular, NestJS, Power Automate e LGPD.
+Efetivada após destaque em estágio jurídico por automações de relatórios em Python e Power Automate; transição para TI atuando com Angular, NestJS e LGPD.
 
-- **Sistemas internos:** interfaces em Angular (com NestJS) para centralização e controle de acesso a relatórios gerenciais.
-- **Dados e automação:** scripts Python para análise contratual e redução de custos; Power Automate para relatórios semanais nacionais.
-- **Compliance e LGPD:** riscos contratuais e adequação de cláusulas nos processos de integração de dados.
-- **Transição jurídico para sistemas:** aplicação de lógica e tratamento de dados para acelerar o acesso da diretoria à informação.
+- **Sistemas internos e automação:** Interfaces em Angular com NestJS para centralização e controle de acesso a relatórios gerenciais; scripts em Python e Power Automate para análise contratual, redução de custos e geração de relatórios nacionais.
+- **Compliance, LGPD e análise de dados:** Avaliação de riscos contratuais, adequação de cláusulas nos processos de integração e tratamento de dados para acelerar a tomada de decisão da diretoria.
 
 ## Competências Técnicas
 
@@ -53,6 +54,12 @@ Efetivada após destaque em estágio. Transição do Jurídico para TI após aut
 - **Bacharelado em Ciência da Computação** · [Anhanguera Osasco](https://www.anhanguera.com/) · Previsão: 2028
 - **Bacharelado em Direito** · [Anhanguera Osasco](https://www.anhanguera.com/) · Interrompido no 5º Semestre  
   Atuação na intersecção entre engenharia de software e direito digital, com foco em compliance, contratos e aplicação prática da LGPD no desenvolvimento.
+
+## Certificações
+
+- **[Learning Basic ABAP Programming](https://badger.learning.sap.com/verify/xivul-ruhit-mylyl-renag-hicol)** — SAP Learning (17h, 2026): lógica de programação, estruturas de dados e desenvolvimento de extensões em ABAP para ecossistemas SAP.
+- **[Managing Clean Core for SAP Cloud ERP](https://badger.learning.sap.com/verify/xinoh-nirah-dufus-pydup-tadym)** — SAP Learning (2026): arquitetura Clean Core, boas práticas e estratégias de extensibilidade no SAP S/4HANA Cloud.
+- **[Exploring SAP Business Technology Platform (BTP)](https://badger.learning.sap.com/verify/xulov-gimyf-horip-nivot-relid)** — SAP Learning (2026): visão geral de nuvem corporativa, serviços de analytics e integração de sistemas (iPaaS).
 
 ---
 
